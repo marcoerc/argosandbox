@@ -1,0 +1,2 @@
+# argosandbox
+ArgoCD sandbox project
